@@ -1,0 +1,16 @@
+{
+  "name": "sonnenstr58",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chaosdorf/sonnenstr58.git",
+  "author": "Marcus Weiner <marcus.weiner@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^1.17.0",
+    "svgexport": "^0.3.2",
+    "svgo": "^1.2.2"
+  },
+  "scripts": {
+    "build": "node scripts/build.js"
+  }
+}
