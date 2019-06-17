@@ -7,7 +7,6 @@
   "license": "MIT",
   "devDependencies": {
     "puppeteer": "^1.17.0",
-    "svgexport": "^0.3.2",
     "svgo": "^1.2.2"
   },
   "scripts": {
