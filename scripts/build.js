@@ -54,6 +54,7 @@ const generatePicture = async (html, { width, height }) => {
 const main = async () => {
     const rawSVG = await fs.readFile(inFile, 'utf-8');
     const { svg, width, height } = await optimizeSVG(rawSVG);
+    await fs.writeFile(path.join(outDir, 'floor0.svg'), svg);
     const html = await generateIndex(svg);
     await generatePicture(html, { width: width * 2, height: height * 2 });
 };
