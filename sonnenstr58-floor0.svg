@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 1190.551 841.89"
+   width="1190.551pt"
+   height="841.89pt"
+   version="1.1"
+   id="svg4156"
+   sodipodi:docname="sonnenstr58-floor0.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4158"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.74021566"
+     inkscape:cx="443.78958"
+     inkscape:cy="597.12327"
+     inkscape:window-width="1680"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4154" />
+  <defs
+     id="defs5">
+    <rect
+       x="64.845966"
+       y="622.79147"
+       width="597.12327"
+       height="283.7011"
+       id="rect11575" />
+    <clipPath
+       id="_clipPath_DpR1o2a6YnwfjLTyv0npeiaa55845bWy">
+      <rect
+         width="1190.551"
+         height="841.89"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_DpR1o2a6YnwfjLTyv0npeiaa55845bWy)"
+     id="g4154"
+     inkscape:label="t">
+    <g
+       style="isolation:isolate;stroke-width:0.781708"
+       id="g1691"
+       transform="matrix(1.2792491,0,0,1.2792491,-178.02213,-119.3329)"
+       inkscape:label="wände">
+      <line
+         x1="170.07899"
+         y1="306.142"
+         x2="323.14999"
+         y2="306.142"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1471"
+         inkscape:label="seminarraum N" />
+      <line
+         x1="167.244"
+         y1="201.25999"
+         x2="325.98401"
+         y2="201.25999"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1473"
+         inkscape:label="elab N" />
+      <line
+         x1="365.66901"
+         y1="206.929"
+         x2="328.819"
+         y2="206.929"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1475"
+         inkscape:label="premium wc N" />
+      <line
+         x1="436.535"
+         y1="206.929"
+         x2="371.33899"
+         y2="206.929"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1477"
+         inkscape:label="wetlab N" />
+      <line
+         x1="493.228"
+         y1="206.929"
+         x2="436.535"
+         y2="206.929"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1479"
+         inkscape:label="wc 1 N" />
+      <line
+         x1="442.20499"
+         y1="272.12601"
+         x2="439.37"
+         y2="272.12601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1481"
+         inkscape:label="wc 1 S" />
+      <line
+         x1="470.55099"
+         y1="272.12601"
+         x2="490.39401"
+         y2="272.12601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1483"
+         inkscape:label="wc 1 S" />
+      <line
+         x1="490.39401"
+         y1="272.12601"
+         x2="510.23599"
+         y2="272.12601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1485"
+         inkscape:label="wc 1 S" />
+      <line
+         x1="549.92102"
+         y1="272.12601"
+         x2="538.58301"
+         y2="272.12601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1487"
+         inkscape:label="wc 2 S" />
+      <line
+         x1="470.55099"
+         y1="340.15701"
+         x2="476.22"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1489"
+         inkscape:label="wc 1 S" />
+      <line
+         x1="544.25201"
+         y1="340.15701"
+         x2="549.92102"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1491"
+         inkscape:label="wc 2 S" />
+      <line
+         x1="513.07098"
+         y1="340.15701"
+         x2="518.73999"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1493"
+         inkscape:label="wc 2 S" />
+      <line
+         x1="445.039"
+         y1="340.15701"
+         x2="439.37"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1495"
+         inkscape:label="wc 1 S" />
+      <line
+         x1="368.504"
+         y1="340.15701"
+         x2="374.173"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1497"
+         inkscape:label="wetlab S" />
+      <line
+         x1="402.51999"
+         y1="340.15701"
+         x2="399.685"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1499"
+         inkscape:label="wetlab S" />
+      <line
+         x1="402.51999"
+         y1="340.15701"
+         x2="402.51999"
+         y2="314.646"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1501"
+         inkscape:label="wetlab E" />
+      <line
+         x1="436.535"
+         y1="323.14999"
+         x2="405.354"
+         y2="323.14999"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1503"
+         inkscape:label="gaderobe 1 N" />
+      <line
+         x1="510.23599"
+         y1="323.14999"
+         x2="479.05499"
+         y2="323.14999"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1505"
+         inkscape:label="gaderobe 2 N" />
+      <line
+         x1="476.22"
+         y1="323.14999"
+         x2="476.22"
+         y2="337.323"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1507"
+         inkscape:label="wc 1 E" />
+      <line
+         x1="513.07098"
+         y1="323.14999"
+         x2="513.07098"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1509"
+         inkscape:label="wc 2 W" />
+      <line
+         x1="552.75598"
+         y1="206.929"
+         x2="487.55899"
+         y2="206.929"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1511"
+         inkscape:label="wc 2 N" />
+      <line
+         x1="810.70898"
+         y1="201.25999"
+         x2="547.08698"
+         y2="201.25999"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1513"
+         inkscape:label="hackcenter N" />
+      <line
+         x1="598.10999"
+         y1="206.929"
+         x2="547.08698"
+         y2="206.929"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1515"
+         inkscape:label="hackcenter N" />
+      <line
+         x1="325.98401"
+         y1="374.173"
+         x2="325.98401"
+         y2="411.02399"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1517"
+         inkscape:label="eingangsbereich W" />
+      <line
+         x1="325.98401"
+         y1="308.97601"
+         x2="325.98401"
+         y2="345.827"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1519"
+         inkscape:label="eingangsbereich W" />
+      <line
+         x1="325.98401"
+         y1="255.118"
+         x2="325.98401"
+         y2="272.12601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1521"
+         inkscape:label="eingangsbereich W" />
+      <line
+         x1="325.98401"
+         y1="255.118"
+         x2="325.98401"
+         y2="204.09399"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1523"
+         inkscape:label="premium wc W" />
+      <line
+         x1="368.504"
+         y1="206.929"
+         x2="368.504"
+         y2="255.118"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1525"
+         inkscape:label="premium wc E" />
+      <line
+         x1="368.504"
+         y1="300.47198"
+         x2="368.504"
+         y2="255.118"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1527"
+         inkscape:label="eingangsbereich E" />
+      <line
+         x1="368.504"
+         y1="300.47198"
+         x2="368.504"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1529"
+         inkscape:label="eingangsbereich E" />
+      <line
+         x1="368.504"
+         y1="348.66101"
+         x2="368.504"
+         y2="340.15701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1531"
+         inkscape:label="eingangsbereich E" />
+      <line
+         x1="368.504"
+         y1="379.84299"
+         x2="368.504"
+         y2="388.34601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1533"
+         inkscape:label="eingangsbereich E" />
+      <line
+         x1="368.504"
+         y1="413.858"
+         x2="368.504"
+         y2="388.34601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1535"
+         inkscape:label="eingangsbereich E" />
+      <line
+         x1="439.37"
+         y1="206.929"
+         x2="439.37"
+         y2="272.12601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1537"
+         inkscape:label="wc 1 W" />
+      <line
+         x1="439.37"
+         y1="340.15701"
+         x2="439.37"
+         y2="272.12601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1539"
+         inkscape:label="wc 1 W" />
+      <line
+         x1="490.39401"
+         y1="272.12601"
+         x2="490.39401"
+         y2="320.315"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1541"
+         inkscape:label="wc 1 E" />
+      <line
+         x1="490.39401"
+         y1="272.12601"
+         x2="490.39401"
+         y2="206.929"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1543"
+         inkscape:label="wc 1 E" />
+      <line
+         x1="549.92102"
+         y1="209.76401"
+         x2="549.92102"
+         y2="342.992"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1545"
+         inkscape:label="hackcenter W" />
+      <line
+         x1="544.25201"
+         y1="209.76401"
+         x2="544.25201"
+         y2="269.29099"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1547"
+         inkscape:label="wc 2 E" />
+      <line
+         x1="807.87402"
+         y1="204.09399"
+         x2="807.87402"
+         y2="280.63"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1549"
+         inkscape:label="cave W" />
+      <line
+         x1="921.26001"
+         y1="282.047"
+         x2="807.87402"
+         y2="282.047"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1551"
+         inkscape:label="cave S" />
+      <line
+         x1="922.677"
+         y1="206.181"
+         x2="922.677"
+         y2="201.51199"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1553"
+         inkscape:label="cave E" />
+      <line
+         x1="922.677"
+         y1="233.528"
+         x2="922.677"
+         y2="282.71701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1555"
+         inkscape:label="cave E" />
+      <line
+         x1="807.87402"
+         y1="399.685"
+         x2="807.87402"
+         y2="277.79501"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1557"
+         inkscape:label="küche W" />
+      <line
+         x1="807.87402"
+         y1="399.685"
+         x2="807.87402"
+         y2="413.858"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1559"
+         inkscape:label="hinterer flur WN" />
+      <line
+         x1="807.87402"
+         y1="459.21301"
+         x2="807.87402"
+         y2="445.039"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1561"
+         inkscape:label="hinterer flur WS" />
+      <line
+         x1="807.87402"
+         y1="459.21301"
+         x2="807.87402"
+         y2="575.43298"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1563"
+         inkscape:label="werkstatt W" />
+      <defs
+         id="defs1578">
+        <filter
+           id="efpuuuoD3kvRidX75jxE8OnkG63jcySR"
+           y="-0.21660639"
+           height="1.4332128"
+           filterUnits="objectBoundingBox"
+           color-interpolation-filters="sRGB"
+           x="-inf"
+           width="inf">
+          <feOffset
+             in="SourceGraphic"
+             dx="0"
+             dy="0"
+             id="feOffset1565" />
+          <feGaussianBlur
+             stdDeviation="2.146804531419514"
+             result="pf_100_offsetBlur"
+             id="feGaussianBlur1567" />
+          <feComposite
+             in="SourceGraphic"
+             in2="pf_100_offsetBlur"
+             result="pf_100_inverse"
+             operator="out"
+             id="feComposite1569" />
+          <feFlood
+             flood-color="#000000"
+             flood-opacity="0.5"
+             result="pf_100_color"
+             id="feFlood1571" />
+          <feComposite
+             in="pf_100_color"
+             in2="pf_100_inverse"
+             operator="in"
+             result="pf_100_shadow"
+             id="feComposite1573" />
+          <feComposite
+             in="pf_100_shadow"
+             in2="SourceGraphic"
+             operator="over"
+             id="feComposite1575" />
+        </filter>
+      </defs>
+      <line
+         x1="167.244"
+         y1="306.142"
+         x2="167.244"
+         y2="308.97601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1584"
+         inkscape:label="seminarraum WN" />
+      <line
+         x1="168.75151"
+         y1="382.01871"
+         x2="168.75151"
+         y2="409.66519"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1584-0"
+         inkscape:label="seminarraum WN"
+         style="isolation:isolate;stroke-width:0.999999" />
+      <line
+         x1="167.244"
+         y1="306.142"
+         x2="167.244"
+         y2="297.638"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1586"
+         inkscape:label="elab WS" />
+      <line
+         x1="167.244"
+         y1="204.09399"
+         x2="167.244"
+         y2="238.11"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1588"
+         inkscape:label="elab WN" />
+      <line
+         x1="323.14999"
+         y1="413.858"
+         x2="167.244"
+         y2="413.858"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1590"
+         inkscape:label="seminarraum S" />
+      <line
+         x1="325.98401"
+         y1="303.30701"
+         x2="331.65399"
+         y2="303.30701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1592"
+         inkscape:label="eingangsbereich NE" />
+      <line
+         x1="325.98401"
+         y1="303.30701"
+         x2="325.98401"
+         y2="300.47198"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1594"
+         inkscape:label="elab ES" />
+      <line
+         x1="368.504"
+         y1="303.30701"
+         x2="362.83499"
+         y2="303.30701"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1596"
+         inkscape:label="eingangsbereich NW" />
+      <line
+         x1="325.98401"
+         y1="255.118"
+         x2="342.992"
+         y2="255.118"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1598"
+         inkscape:label="premium wc S" />
+      <line
+         x1="365.66901"
+         y1="255.118"
+         x2="368.504"
+         y2="255.118"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1600"
+         inkscape:label="premium wc S" />
+      <line
+         x1="325.98401"
+         y1="413.858"
+         x2="331.65399"
+         y2="413.858"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1602"
+         inkscape:label="eingangsbereich S" />
+      <line
+         x1="368.504"
+         y1="413.858"
+         x2="362.83499"
+         y2="413.858"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1604"
+         inkscape:label="eingangsbereich S" />
+      <line
+         x1="549.92102"
+         y1="388.34601"
+         x2="445.039"
+         y2="388.34601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1606"
+         inkscape:label="vorderer flur S" />
+      <line
+         x1="413.858"
+         y1="388.34601"
+         x2="368.504"
+         y2="388.34601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1608"
+         inkscape:label="vorderer flur S" />
+      <line
+         x1="549.92102"
+         y1="374.173"
+         x2="549.92102"
+         y2="473.38599"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1610"
+         inkscape:label="hackcenter W" />
+      <line
+         x1="632.12598"
+         y1="459.21301"
+         x2="632.12598"
+         y2="476.22"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1612"
+         inkscape:label="hackcenter S" />
+      <line
+         x1="552.75598"
+         y1="476.22"
+         x2="629.29102"
+         y2="476.22"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1614"
+         inkscape:label="hackcenter S" />
+      <line
+         x1="632.12598"
+         y1="459.21301"
+         x2="810.70898"
+         y2="459.21301"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1616"
+         inkscape:label="hackcenter S" />
+      <line
+         x1="810.70898"
+         y1="459.21301"
+         x2="839.05499"
+         y2="459.21301"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1618"
+         inkscape:label="hinterer flur S" />
+      <line
+         x1="870.23602"
+         y1="459.21301"
+         x2="867.40198"
+         y2="459.21301"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1620"
+         inkscape:label="hinterer flur S" />
+      <line
+         x1="875.90503"
+         y1="459.21301"
+         x2="890.07898"
+         y2="459.21301"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1622"
+         inkscape:label="hinterer flur S" />
+      <line
+         x1="952.44098"
+         y1="459.21301"
+         x2="890.07898"
+         y2="459.21301"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1624"
+         inkscape:label="hinterer flur S" />
+      <line
+         x1="980.78699"
+         y1="459.21301"
+         x2="1020.472"
+         y2="459.21301"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1630"
+         inkscape:label="hinterer flur SW" />
+      <line
+         x1="810.70898"
+         y1="399.685"
+         x2="839.05499"
+         y2="399.685"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1632"
+         inkscape:label="lounge SW" />
+      <line
+         x1="952.44098"
+         y1="399.685"
+         x2="867.40198"
+         y2="399.685"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1634"
+         inkscape:label="lounge S" />
+      <line
+         x1="980.78699"
+         y1="399.685"
+         x2="1020.472"
+         y2="399.685"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1636"
+         inkscape:label="lounge SE" />
+      <line
+         x1="807.87402"
+         y1="201.25999"
+         x2="1020.472"
+         y2="201.25999"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1638"
+         inkscape:label="lounge N" />
+      <line
+         x1="1020.472"
+         y1="402.51999"
+         x2="1020.472"
+         y2="201.25999"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1640"
+         inkscape:label="lounge E" />
+      <line
+         x1="1020.472"
+         y1="413.858"
+         x2="1020.472"
+         y2="399.685"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1642"
+         inkscape:label="hinterer flur SN" />
+      <line
+         x1="1020.472"
+         y1="447.87399"
+         x2="1020.472"
+         y2="459.21301"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1644"
+         inkscape:label="hinterer flur SE" />
+      <line
+         x1="1020.472"
+         y1="575.43298"
+         x2="1020.472"
+         y2="459.21301"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1646"
+         inkscape:label="werkstatt E" />
+      <line
+         x1="1020.472"
+         y1="575.43298"
+         x2="807.87402"
+         y2="575.43298"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1648"
+         inkscape:label="werkstatt S" />
+      <line
+         x1="549.92102"
+         y1="575.43298"
+         x2="807.87402"
+         y2="575.43298"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1650"
+         inkscape:label="innenhof S" />
+      <line
+         x1="549.92102"
+         y1="575.43298"
+         x2="549.92102"
+         y2="476.22"
+         vector-effect="non-scaling-stroke"
+         stroke-width="4.4315"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1652"
+         inkscape:label="innenhof W" />
+      <line
+         x1="632.12598"
+         y1="476.22"
+         x2="632.12598"
+         y2="575.43298"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.781708"
+         stroke-dasharray="3, 2, 3, 2"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1654"
+         inkscape:label="innenhof stufe" />
+    </g>
+    <g
+       id="g1689"
+       style="isolation:isolate;stroke-width:0.781708"
+       inkscape:label="hackcenter deckenhöhe"
+       transform="matrix(1.2792491,0,0,1.2792491,-178.02213,-119.3329)">
+      <line
+         x1="600.94501"
+         y1="209.76401"
+         x2="600.94501"
+         y2="473.38599"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.390854"
+         stroke-dasharray="4, 4, 4, 4"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="3"
+         id="line1669"
+         inkscape:label="linie" />
+      <g
+         clip-path="url(#_clipPath_plSOmMEf8LfddMOQ8M2qIKX2ZHhWSoEs)"
+         id="g1673"
+         style="stroke-width:0.781708"
+         inkscape:label="hackcenter 2.5m">
+        <text
+           transform="rotate(90,189.334,404.767)"
+           style="font-style:normal;font-weight:400;font-size:5px;font-family:Geo;fill:#000000;stroke:none;stroke-width:0.781708"
+           id="text1671"
+           inkscape:label="2.5m">Höhe 2.5 m</text>
+      </g>
+      <defs
+         id="defs1678">
+        <clipPath
+           id="_clipPath_plSOmMEf8LfddMOQ8M2qIKX2ZHhWSoEs">
+          <rect
+             x="0"
+             y="0"
+             width="34.015999"
+             height="5.6690001"
+             transform="rotate(90,191.3385,406.7715)"
+             id="rect1675" />
+        </clipPath>
+      </defs>
+      <g
+         clip-path="url(#_clipPath_hAifUSMoJaRLL3uziraHAcsYrBH1iYCJ)"
+         id="g1682"
+         style="stroke-width:0.781708"
+         inkscape:label="hackcenter 3m">
+        <text
+           transform="rotate(90,195.0035,410.4365)"
+           style="font-style:normal;font-weight:400;font-size:5px;font-family:Geo;fill:#000000;stroke:none;stroke-width:0.781708"
+           id="text1680"
+           inkscape:label="3m">Höhe 3.0 m</text>
+      </g>
+      <defs
+         id="defs1687">
+        <clipPath
+           id="_clipPath_hAifUSMoJaRLL3uziraHAcsYrBH1iYCJ">
+          <rect
+             x="0"
+             y="0"
+             width="34.015999"
+             height="5.6690001"
+             transform="rotate(90,197.008,412.441)"
+             id="rect1684" />
+        </clipPath>
+      </defs>
+    </g>
+    <g
+       style="isolation:isolate;stroke-width:0.781708"
+       id="g1718"
+       transform="matrix(1.2792491,0,0,1.2792491,-178.02213,-119.3329)"
+       inkscape:label="rolladen">
+      <line
+         x1="1014.803"
+         y1="484.724"
+         x2="1014.803"
+         y2="555.591"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.781708"
+         stroke-dasharray="1, 1, 1, 1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-miterlimit="3"
+         id="line1697"
+         inkscape:label="werkstatt" />
+      <line
+         x1="1014.803"
+         y1="308.97601"
+         x2="1014.803"
+         y2="379.134"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.781708"
+         stroke-dasharray="1, 1, 1, 1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-miterlimit="3"
+         id="line1699"
+         inkscape:label="lounge rechts" />
+      <line
+         x1="1014.803"
+         y1="300.47198"
+         x2="1014.803"
+         y2="229.606"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.781708"
+         stroke-dasharray="1, 1, 1, 1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-miterlimit="3"
+         id="line1701"
+         inkscape:label="lounge links" />
+      <line
+         x1="172.91299"
+         y1="242.362"
+         x2="172.91299"
+         y2="300.47198"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.781708"
+         stroke-dasharray="1, 1, 1, 1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-miterlimit="3"
+         id="line1703"
+         inkscape:label="elab" />
+      <line
+         x1="172.91299"
+         y1="314.646"
+         x2="172.91299"
+         y2="372.75601"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.781708"
+         stroke-dasharray="1, 1, 1, 1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-miterlimit="3"
+         id="line1705"
+         inkscape:label="seminarraum" />
+      <defs
+         id="defs1716">
+        <clipPath
+           id="_clipPath_Ko9hyGxykymybNrFNA6VNHW44AzXtdVO">
+          <rect
+             x="0"
+             y="0"
+             width="63"
+             height="14.301"
+             transform="translate(395.016,583.809)"
+             id="rect1713" />
+        </clipPath>
+      </defs>
+    </g>
+    <g
+       style="isolation:isolate;stroke-width:0.781708"
+       id="g1844"
+       transform="matrix(1.2792491,0,0,1.2792491,-178.02213,-119.3329)"
+       inkscape:label="türen">
+      <g
+         id="g1724"
+         style="stroke-width:0.781708"
+         inkscape:label="eingang 1">
+        <path
+           d="m 360,413.858 v 0 c 0,14.081 -11.431,25.512 -25.512,25.512 v -20.363 -5.149 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1720"
+           inkscape:label="bereich" />
+        <line
+           x1="334.48801"
+           y1="439.37"
+           x2="334.48801"
+           y2="413.858"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1722"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1730"
+         style="stroke-width:0.781708"
+         inkscape:label="wetlab">
+        <path
+           d="m 398.268,340.157 v 0 c 0,-12.515 -10.162,-22.677 -22.677,-22.677 v 18.101 4.576 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1726"
+           inkscape:label="bereich" />
+        <line
+           x1="375.591"
+           y1="317.48001"
+           x2="375.591"
+           y2="340.15701"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1728"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1736"
+         style="stroke-width:0.781708"
+         inkscape:label="wc 1 außen">
+        <path
+           d="m 469.134,340.157 v 0 c 0,-12.515 -10.161,-22.677 -22.677,-22.677 v 18.101 4.576 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1732"
+           inkscape:label="bereich" />
+        <line
+           x1="446.457"
+           y1="317.48001"
+           x2="446.457"
+           y2="340.15701"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1734"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1742"
+         style="stroke-width:0.781708"
+         inkscape:label="wc 1 innen">
+        <path
+           d="m 467.717,272.126 v 0 c 0,12.516 -10.162,22.677 -22.678,22.677 v -18.1 -4.577 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1738"
+           inkscape:label="bereich" />
+        <line
+           x1="445.039"
+           y1="294.80301"
+           x2="445.039"
+           y2="272.12601"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1740"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1748"
+         style="stroke-width:0.781708"
+         inkscape:label="wc 2 außen">
+        <path
+           d="m 520.157,340.157 v 0 c 0,-12.515 10.162,-22.677 22.678,-22.677 v 18.101 4.576 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1744"
+           inkscape:label="bereich" />
+        <line
+           x1="542.83502"
+           y1="317.48001"
+           x2="542.83502"
+           y2="340.15701"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1746"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1754"
+         style="stroke-width:0.781708"
+         inkscape:label="wc 2 innen">
+        <path
+           d="m 513.071,272.126 v 0 c 0,12.516 10.161,22.677 22.677,22.677 v -18.1 -4.577 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1750"
+           inkscape:label="bereich" />
+        <line
+           x1="535.74799"
+           y1="294.80301"
+           x2="535.74799"
+           y2="272.12601"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1752"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1760"
+         style="stroke-width:0.781708"
+         inkscape:label="seminarraum">
+        <path
+           d="m 325.984,348.661 v 0 c -12.516,0 -22.677,10.162 -22.677,22.678 h 18.101 4.576 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1756"
+           inkscape:label="bereich" />
+        <line
+           x1="303.30701"
+           y1="371.33899"
+           x2="325.98401"
+           y2="371.33899"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1758"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1766"
+         style="stroke-width:0.781708"
+         inkscape:label="eingang 2">
+        <path
+           d="m 442.205,388.346 v 0 c 0,-14.08 -11.432,-25.511 -25.512,-25.511 v 20.363 5.148 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1762"
+           inkscape:label="bereich" />
+        <line
+           x1="416.69299"
+           y1="362.83499"
+           x2="416.69299"
+           y2="388.34601"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1764"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1772"
+         style="stroke-width:0.781708"
+         inkscape:label="hackcenter hinten">
+        <path
+           d="m 807.874,416.693 v 0 c 14.08,0 25.512,11.431 25.512,25.512 h -20.363 -5.149 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1768"
+           inkscape:label="bereich" />
+        <line
+           x1="833.38599"
+           y1="442.20499"
+           x2="807.87402"
+           y2="442.20499"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1770"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1778"
+         style="stroke-width:0.781708"
+         inkscape:label="küche">
+        <path
+           d="m 841.89,399.685 v 0 c 0,-12.516 10.161,-22.677 22.677,-22.677 v 18.1 4.577 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1774"
+           inkscape:label="bereich" />
+        <line
+           x1="864.56702"
+           y1="377.008"
+           x2="864.56702"
+           y2="399.685"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1776"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1784"
+         style="stroke-width:0.781708"
+         inkscape:label="cave">
+        <path
+           d="m 924.094,232.441 v 0 c 14.081,0 25.512,-11.431 25.512,-25.512 h -20.363 -5.149 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1780"
+           inkscape:label="bereich" />
+        <line
+           x1="949.60602"
+           y1="206.929"
+           x2="924.09399"
+           y2="206.929"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1782"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1790"
+         style="stroke-width:0.781708"
+         inkscape:label="lounge hinten">
+        <path
+           d="m 977.953,399.685 v 0 c 0,12.516 -10.162,22.677 -22.677,22.677 v -18.1 -4.577 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1786"
+           inkscape:label="bereich" />
+        <line
+           x1="955.276"
+           y1="422.362"
+           x2="955.276"
+           y2="399.685"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1788"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1796"
+         style="stroke-width:0.781708"
+         inkscape:label="werkstatt hinten">
+        <path
+           d="m 977.953,459.213 v 0 c 0,-12.516 -10.162,-22.678 -22.677,-22.678 v 18.101 4.577 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1792"
+           inkscape:label="bereich" />
+        <line
+           x1="955.276"
+           y1="436.535"
+           x2="955.276"
+           y2="459.21301"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1794"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1802"
+         style="stroke-width:0.781708"
+         inkscape:label="werkstatt vorne">
+        <path
+           d="m 864.567,459.213 v 0 c 0,12.515 -10.161,22.677 -22.677,22.677 v -18.101 -4.576 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1798"
+           inkscape:label="bereich" />
+        <line
+           x1="841.89001"
+           y1="481.89001"
+           x2="841.89001"
+           y2="459.21301"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1800"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1817"
+         style="stroke-width:0.781708"
+         inkscape:label="hinten raus">
+        <path
+           d="m 1020.472,416.693 v 0 c -17.209,0 -31.181,12.702 -31.181,28.346 h 24.889 6.292 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1804"
+           inkscape:label="bereich" />
+        <line
+           x1="989.29102"
+           y1="445.039"
+           x2="1020.472"
+           y2="445.039"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1806"
+           inkscape:label="tür" />
+        <defs
+           id="defs1815">
+          <clipPath
+             id="_clipPath_9oYIF8yEPdeSK9ynN6DPkqXQJPtS7Rz2">
+            <rect
+               x="0"
+               y="0"
+               width="53.858002"
+               height="53.858002"
+               transform="translate(997.795,405.354)"
+               id="rect1812" />
+          </clipPath>
+        </defs>
+      </g>
+      <g
+         id="g1823"
+         style="stroke-width:0.781708"
+         inkscape:label="elab">
+        <path
+           d="m 325.984,274.961 v 0 c -12.516,0 -22.677,10.161 -22.677,22.677 h 18.101 4.576 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1819"
+           inkscape:label="bereich" />
+        <line
+           x1="303.30701"
+           y1="297.638"
+           x2="325.98401"
+           y2="297.638"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1821"
+           inkscape:label="tür" />
+      </g>
+      <g
+         id="g1829"
+         style="stroke-width:0.781708"
+         inkscape:label="premium wc">
+        <path
+           d="m 345.827,255.118 v 0 c 0,9.387 7.621,17.008 17.008,17.008 v -13.575 -3.433 z"
+           fill="none"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.390854"
+           stroke-dasharray="1, 4, 1, 4"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="path1825"
+           inkscape:label="bereich" />
+        <line
+           x1="362.83499"
+           y1="272.12601"
+           x2="362.83499"
+           y2="255.118"
+           vector-effect="non-scaling-stroke"
+           stroke-width="0.781708"
+           stroke="#000000"
+           stroke-linejoin="miter"
+           stroke-linecap="square"
+           stroke-miterlimit="3"
+           id="line1827"
+           inkscape:label="tür" />
+      </g>
+    </g>
+    <g
+       style="isolation:isolate;stroke-width:0.781708"
+       id="g1899"
+       transform="matrix(1.2792491,0,0,1.2792491,-178.02213,-119.3329)"
+       inkscape:label="fenster">
+      <mask
+         id="_mask_k0nW1frqsHfnHcKOB8U3pul54YO5lRh9">
+        <rect
+           x="164.409"
+           y="311.811"
+           width="5.6690001"
+           height="65.196999"
+           fill="#ffffff"
+           stroke="none"
+           id="rect1846" />
+      </mask>
+      <rect
+         x="164.409"
+         y="311.811"
+         width="5.6690001"
+         height="65.196999"
+         fill="#ffffff"
+         mask="url(#_mask_k0nW1frqsHfnHcKOB8U3pul54YO5lRh9)"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="2"
+         id="rect1851"
+         inkscape:label="fenster seminarraum" />
+      <mask
+         id="_mask_9FY3Dni64EKzkzI7KSc0stYSjUP5X1Vu">
+        <rect
+           x="1017.638"
+           y="481.89001"
+           width="5.6690001"
+           height="76.535004"
+           fill="#ffffff"
+           stroke="none"
+           id="rect1853" />
+      </mask>
+      <rect
+         x="1017.638"
+         y="481.89001"
+         width="5.6690001"
+         height="76.535004"
+         fill="#ffffff"
+         mask="url(#_mask_9FY3Dni64EKzkzI7KSc0stYSjUP5X1Vu)"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="2"
+         id="rect1858"
+         inkscape:label="fenster werkstatt" />
+      <mask
+         id="_mask_EG0wyQXI37PaArIVg16WLf7AbX2fl4E1">
+        <rect
+           x="1017.638"
+           y="226.772"
+           width="5.6690001"
+           height="153.071"
+           fill="#ffffff"
+           stroke="none"
+           id="rect1860" />
+      </mask>
+      <rect
+         x="1017.638"
+         y="226.772"
+         width="5.6690001"
+         height="153.071"
+         fill="#ffffff"
+         mask="url(#_mask_EG0wyQXI37PaArIVg16WLf7AbX2fl4E1)"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="2"
+         id="rect1865"
+         inkscape:label="fenster lounge" />
+      <mask
+         id="_mask_k5KynbysXHkKEOV8Z0a3ZnfmwefHwGez">
+        <rect
+           x="717.16498"
+           y="382.677"
+           width="5.6690001"
+           height="153.071"
+           fill="#ffffff"
+           stroke="none"
+           id="rect1867" />
+      </mask>
+      <rect
+         x="717.16498"
+         y="382.677"
+         width="5.6690001"
+         height="153.071"
+         transform="rotate(90,720,459.213)"
+         fill="#ffffff"
+         mask="url(#_mask_k5KynbysXHkKEOV8Z0a3ZnfmwefHwGez)"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="2"
+         id="rect1872"
+         style="display:inline"
+         inkscape:label="fenster hackcenter" />
+      <mask
+         id="_mask_yQepd2rl92HA12v3SfaKWs8N2CRXZTgR">
+        <rect
+           x="164.409"
+           y="238.11"
+           width="5.6690001"
+           height="65.196999"
+           fill="#ffffff"
+           stroke="none"
+           id="rect1874" />
+      </mask>
+      <rect
+         x="164.409"
+         y="238.11"
+         width="5.6690001"
+         height="65.196999"
+         fill="#ffffff"
+         mask="url(#_mask_yQepd2rl92HA12v3SfaKWs8N2CRXZTgR)"
+         vector-effect="non-scaling-stroke"
+         stroke-width="2.21614"
+         stroke="#000000"
+         stroke-linejoin="miter"
+         stroke-linecap="square"
+         stroke-miterlimit="2"
+         id="rect1879"
+         style="display:inline"
+         inkscape:label="fenster elab" />
+    </g>
+    <g
+       style="isolation:isolate;stroke-width:0.781708"
+       id="g4135"
+       transform="matrix(1.2792491,0,0,1.2792491,-178.02213,-119.3329)"
+       inkscape:label="kabelkanäle">
+      <rect
+         x="320.315"
+         y="206.929"
+         width="2.835"
+         height="96.377998"
+         fill="#607d8b"
+         id="rect4108"
+         style="stroke-width:0.692966"
+         inkscape:label="kabelkanal elab" />
+      <rect
+         x="320.315"
+         y="308.97601"
+         width="2.835"
+         height="82.205002"
+         fill="#607d8b"
+         id="rect4110"
+         style="stroke-width:0.692966"
+         inkscape:label="kabelkanal seminarraum" />
+      <rect
+         x="371.33899"
+         y="342.992"
+         width="175.748"
+         height="2.835"
+         fill="#607d8b"
+         id="rect4112"
+         style="stroke-width:0.692966"
+         inkscape:label="kabelkanal vorder flur" />
+      <path
+         d="m 603.78,204.094 h 198.425 v 0 0 h 2.834 v 249.449 h -2.834 V 206.929 H 603.78 v 2.835 0 2.834 0 0 h -2.835 v 0 h -45.354 v 0 0 257.953 h -2.835 v -257.953 0 -2.834 0 h 48.189 v -2.835 0 -2.835 0 0 0 z"
+         fill-rule="evenodd"
+         fill="#607d8b"
+         id="path4114"
+         style="stroke-width:0.692966"
+         inkscape:label="kabelkanal hackcenter" />
+      <path
+         d="m 362.835,306.142 h -34.016 v 2.834 h 34.016 v 36.851 h 2.834 v -36.851 0 -2.834 0 0 z"
+         fill-rule="evenodd"
+         fill="#607d8b"
+         id="path4116"
+         style="stroke-width:0.692966"
+         inkscape:label="kabelkanal eingangsbereich" />
+      <path
+         d="m 924.094,206.929 h 90.709 v -2.835 H 810.709 v 2.835 H 921.26 v 257.953 h 2.834 z"
+         fill-rule="evenodd"
+         fill="#607d8b"
+         id="path4118"
+         style="stroke-width:0.692966"
+         inkscape:label="kabelkanal küche lounge cave" />
+      <path
+         d="m 813.543,464.882 v 107.716 h -2.834 v -107.716 0 -2.835 h 201.26 v 2.835 z m 0,104.882 h 198.426 v 2.834 H 813.543 Z"
+         fill-rule="evenodd"
+         fill="#607d8b"
+         id="path4120"
+         style="stroke-width:0.692966"
+         inkscape:label="traverse werkstatt" />
+    </g>
+    <g
+       style="isolation:isolate;stroke-width:0.781708"
+       id="g4152"
+       transform="matrix(1.2792491,0,0,1.2792491,-178.02213,-119.3329)"
+       inkscape:label="traverse hackcenter">
+      <rect
+         x="600.94501"
+         y="317.48001"
+         width="204.09399"
+         height="8.5039997"
+         fill="#c9dbf8"
+         id="rect4137"
+         style="stroke-width:0.692966"
+         inkscape:label="traverse" />
+    </g>
+    <g
+       id="g9262"
+       style="isolation:isolate;stroke-width:0.781708"
+       transform="matrix(1.2792491,0,0,1.2792491,-178.02213,-119.3329)"
+       inkscape:label="heizungen">
+      <line
+         x1="802.20502"
+         y1="365.66901"
+         x2="802.20502"
+         y2="402.51999"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.781708"
+         stroke-dasharray="1, 1, 1, 1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-miterlimit="3"
+         id="line1693"
+         inkscape:label="hackcenter membershelf wand" />
+      <line
+         x1="555.591"
+         y1="394.01599"
+         x2="555.591"
+         y2="442.20499"
+         vector-effect="non-scaling-stroke"
+         stroke-width="0.781708"
+         stroke-dasharray="1, 1, 1, 1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-miterlimit="3"
+         id="line1695"
+         inkscape:label="getänkeecke" />
+    </g>
+    <ellipse
+       style="fill:#ffcc00;stroke:#000000;stroke-width:0.75"
+       id="light.bulb_hackcenter_sofa"
+       cx="589.35492"
+       cy="437.73148"
+       rx="21.27305"
+       ry="19.145744"
+       inkscape:label="light.bulb_hackcenter_sofa">
+      <title
+         id="title4426">light.bulb_hackcenter_sofa</title>
+    </ellipse>
+    <ellipse
+       style="isolation:isolate;fill:#ffcc00;stroke:#000000;stroke-width:0.750001"
+       id="light.bulb_lounge_theke_links"
+       cx="994.2464"
+       cy="329.49219"
+       rx="8.8713923"
+       ry="7.9627695"
+       inkscape:label="light.bulb_lounge_theke_links">
+      <title
+         id="title4426-0">light.bulb_lounge_theke_links</title>
+    </ellipse>
+    <ellipse
+       style="isolation:isolate;fill:#ffcc00;stroke:#000000;stroke-width:0.750001"
+       id="light.bulb_lounge_theke_rechts"
+       cx="994.2464"
+       cy="368.74265"
+       rx="8.8713923"
+       ry="7.9627695"
+       inkscape:label="light.bulb_lounge_theke_rechts">
+      <title
+         id="title4426-0-3">light.bulb_lounge_theke_rechts</title>
+    </ellipse>
+    <text
+       xml:space="preserve"
+       transform="scale(0.75)"
+       id="text11573"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0.45;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11575);shape-padding:1.35096;display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="66.197266"
+         y="644.63579"
+         id="tspan12097"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12095">In order to adjust the map:
+</tspan></tspan><tspan
+         x="66.197266"
+         y="664.29796"
+         id="tspan12101"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12099">- add object to the svg, adjust the object id (inkscape/ ricght click/ object properties/ </tspan></tspan><tspan
+         x="66.197266"
+         y="683.96013"
+         id="tspan12105"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12103">id). Use the id of the object from within homeassistant
+</tspan></tspan><tspan
+         x="66.197266"
+         y="703.6223"
+         id="tspan12109"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12107">- save and upload the svg somewhere
+</tspan></tspan><tspan
+         x="66.197266"
+         y="723.28447"
+         id="tspan12113"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12111">- from within homeassistant, access the webshell (settings / addons / terminal&amp;ssh / </tspan></tspan><tspan
+         x="66.197266"
+         y="742.94664"
+         id="tspan12117"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12115">open web ui)
+</tspan></tspan><tspan
+         x="66.197266"
+         y="762.60881"
+         id="tspan12121"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12119">- replace the svg in /root/config/www/community/ha-floorplan/sonnenstr58-floor0.svg
+</tspan></tspan><tspan
+         x="66.197266"
+         y="782.27098"
+         id="tspan12125"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12123">- in the floormap panel, in the top right, press the three ball menu -&gt; edit dashboard -</tspan></tspan><tspan
+         x="66.197266"
+         y="801.93315"
+         id="tspan12129"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12127">&gt; three ball menu *again* -&gt; raw configuraiton editor -&gt; add new rule under views / </tspan></tspan><tspan
+         x="66.197266"
+         y="821.59532"
+         id="tspan12133"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12131">cards / config / rules
+</tspan></tspan><tspan
+         x="66.197266"
+         y="841.25749"
+         id="tspan12137"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12135">
+</tspan></tspan><tspan
+         x="66.197266"
+         y="860.91967"
+         id="tspan12141"><tspan
+           style="font-size:13.3333px;-inkscape-font-specification:'sans-serif, Normal'"
+           id="tspan12139">https://experiencelovelace.github.io/ha-floorplan/</tspan></tspan></text>
+  </g>
+</svg>
